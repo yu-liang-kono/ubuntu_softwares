@@ -13,3 +13,4 @@ apt-get -y install ipython-notebook \
                    python-nose
                    libxslt1-dev
 
+pip install -r requirements.txt
