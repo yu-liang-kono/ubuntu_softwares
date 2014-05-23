@@ -1,0 +1,6 @@
+#!/bin/sh
+
+mkdir /var/log/apache2
+chown root:adm /var/log/apache2
+chmod 750 /var/log/apache2
+
